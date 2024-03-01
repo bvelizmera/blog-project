@@ -1,1 +1,0 @@
-console.log("The World is in your hands!")
